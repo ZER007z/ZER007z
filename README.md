@@ -71,7 +71,7 @@ Me chamo Cláudio Jácomo, tenho 21 anos e sou natural de Santos–SP. Após co
 
 ### 📊 Estatísticas
 
-<p>
+<!--<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -87,4 +87,4 @@ Me chamo Cláudio Jácomo, tenho 21 anos e sou natural de Santos–SP. Após co
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZER007z&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
   />
 
-</p>
+</p>-->
