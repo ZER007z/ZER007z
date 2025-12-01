@@ -69,9 +69,9 @@ Me chamo Cláudio Jácomo, tenho 21 anos e sou natural de Santos–SP. Após co
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<!--### 📊 Estatísticas
 
-<!--<p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
