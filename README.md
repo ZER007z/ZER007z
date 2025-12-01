@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Cláudio Jácomo, tenho 20 anos e sou natural de Santos–SP. Após concluir o ensino médio, decidi entrar para a área de T.I mais voltada para programação, em geral. Atualmente, estou cursando Engenharia de Software na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através daqui do GitHub.
+Me chamo Cláudio Jácomo, tenho 21 anos e sou natural de Santos–SP. Após concluir o ensino médio, decidi entrar para a área de T.I mais voltada para programação, em geral. Atualmente, estou cursando Engenharia de Software na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através daqui do GitHub.
 
 <p align="left">
     <a href="https://github.com/ZER007z?tab=repositories&sort=stargazers">
